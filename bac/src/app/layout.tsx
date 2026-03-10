@@ -10,6 +10,11 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "BUILDERS @ CAL",
   description: "BUILDERS @ CAL",
+  icons: {
+    icon: "/bac_logo.svg",
+    shortcut: "/bac_logo.svg",
+    apple: "/bac_logo.svg",
+  },
 };
 
 export default function RootLayout({

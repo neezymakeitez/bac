@@ -56,7 +56,7 @@ export default function HeroHeading({
           aria-hidden
         >
           <Image
-            src="/cal.svg"
+            src="/bac_logo.svg"
             alt=""
             fill
             sizes="1em"
